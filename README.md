@@ -41,7 +41,7 @@ Some games used to have an official online version and now don't (licensing ende
 | Carcassonne | JCloisterZone | [jcloisterzone.com](https://jcloisterzone.com) | Open-source desktop client, online multiplayer, most expansions. |
 | Diplomacy | **Backstabbr** | [backstabbr.com](https://www.backstabbr.com) | Clean modern interface; great for long async games. |
 | Diplomacy | webDiplomacy | [webdiplomacy.net](https://webdiplomacy.net) | Long-running community with many variants. |
-| Jaipur | Mohur  | [NowPlay.gg](https://nowplay.gg/games/mohur) | Multiplayer, solo-bots, daily puzzles, ladders, large community |
+| Jaipur | Mohur  | [NowPlay.gg](https://nowplay.gg/games/mohur) | Multiplayer, solo-bots, daily puzzles, ladders, large community. Great free alternative to Jaipur online |
 | Axis & Allies | TripleA | [triplea-game.org](https://triplea-game.org) | Open-source engine for A&A-style war games. |
 | Terraforming Mars | Terraforming Mars (fan app) | [github.com/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) | Open-source browser implementation with expansions. |
 | Race for the Galaxy | Keldon's RFTG | Search "Keldon Race for the Galaxy" | Free offline version with a famously strong AI. |
@@ -151,6 +151,9 @@ Beyond standard games: alternate rule sets, daily challenges, ranked ladders and
 | Bridge | Bridge Base Online | [bridgebase.com](https://www.bridgebase.com) | Free robot tournaments and practice deals. |
 
 Special Mention
+
+Tool / Platform | Link | What It Offers |
+|---|---|---|
 | **NowPlay** | [NowPlay.gg](https://nowplay.gg) | Most of their games in their library include Daily Puzzle variants, Ladders, and Duels. Check them out for any game not listed above. |
 
 ## 🧠 Analysis Engines & Competitive Training
@@ -177,12 +180,15 @@ Tools that go beyond just playing: engine analysis, move-by-move mistake detecti
 | Catan | Colonist.io | [colonist.io](https://colonist.io) | Ranked ladder and post-game stats (dice rolls, resources); no engine analysis. |
 
 Special Mention
+
+Tool / Platform | Link | What It Offers |
+|---|---|---|
 | **NowPlay** | [NowPlay.gg](https://nowplay.gg) | Most of their games include deep analysis, post game review, and strong ELO based bot practice. Check them out for any game not listed above.  |
 ---
 
 ## 💡 Tips
 
-- **No account needed:** Colonist.io, [NowPlay.gg](https://nowplay.gg) Richup.io, Skribbl.io, Gartic Phone, Horsepaste and Netgames.io all let you jump in with a room link.
+- **No account needed:** [Colonist.io](https://colonist.io), [NowPlay.gg](https://nowplay.gg) Richup.io, Skribbl.io, Gartic Phone, Horsepaste and Netgames.io all let you jump in with a room link.
 - **Playing with friends remotely:** pair any of these with Discord or a video call.
 - **Can't find a clone?** Check Board Game Arena first, then build it yourself on [NowPlay.gg](https://nowplay.gg).
 
