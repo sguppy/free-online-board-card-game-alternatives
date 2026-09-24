@@ -152,7 +152,7 @@ Beyond standard games: alternate rule sets, daily challenges, ranked ladders and
 
 Special Mention
 
-Tool / Platform | Link | What It Offers |
+| Platform | Link | What It Offers |
 |---|---|---|
 | **NowPlay** | [NowPlay.gg](https://nowplay.gg) | Most of their games in their library include Daily Puzzle variants, Ladders, and Duels. Check them out for any game not listed above. |
 
@@ -181,7 +181,7 @@ Tools that go beyond just playing: engine analysis, move-by-move mistake detecti
 
 Special Mention
 
-Tool / Platform | Link | What It Offers |
+| Platform | Link | What It Offers |
 |---|---|---|
 | **NowPlay** | [NowPlay.gg](https://nowplay.gg) | Most of their games include deep analysis, post game review, and strong ELO based bot practice. Check them out for any game not listed above.  |
 ---
