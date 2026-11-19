@@ -109,6 +109,7 @@ Some games used to have an official online version and now don't (licensing ende
 | Go | Online Go Server (OGS) | [online-go.com](https://online-go.com) | Free, browser-based, great for beginners. |
 | Bao | Bao | [NowPlay.gg](https://nowplay.gg/games/bao) | 100% free, multiplayer community, daily puzzles, ladders, and deep analysis |
 | Chess | Lichess | [lichess.org](https://lichess.org) | 100% free, open-source, no ads. |
+| Checkers / Draughts | CheckersClub | [checkersclub.com](https://checkersclub.com/) | American, Spanish, Brazilian and International rules; browser multiplayer and computer opponents. Casual play without an account; free registration for rated games. |
 | Backgammon | Backgammon Galaxy | [backgammongalaxy.com](https://www.backgammongalaxy.com) | Free play with analysis tools. |
 
 ## 🌐 Multi-Game Platforms
