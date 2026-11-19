@@ -195,4 +195,4 @@ Special Mention
 - **Playing with friends remotely:** pair any of these with Discord or a video call.
 - **Can't find a clone?** Check Board Game Arena first, then build it yourself on [NowPlay.gg](https://nowplay.gg).
 
-*Last updated: September 2026. Links and availability can change — if something's gone, search the game name plus "online free".*
+*Last updated: November 2026. Links and availability can change — if something's gone, search the game name plus "online free".*
