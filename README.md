@@ -32,6 +32,7 @@ Some games used to have an official online version and now don't (licensing ende
 | Battleship | Papergames.io | [papergames.io](https://papergames.io) | Also has Connect 4, Tic-Tac-Toe, Gomoku. |
 | Connect Four | Papergames.io | [papergames.io](https://papergames.io) | Quick matches vs. friends or strangers. |
 | Yahtzee | Yatzy on CardGames.io | [cardgames.io](https://cardgames.io) | Same dice game under its generic name. |
+| Backgammon | NowPlay.gg | [NowPlay.gg](https://nowplay.gg/games/backgammon) | 100% Free - No Account Need - Matchmaking, Tournaments, Daily Puzzles |
 | Ludo / Sorry! / Parcheesi | Ludo King | App stores / web | Free with ads; supports private rooms. |
 
 ## ♟️ Strategy & Eurogames
@@ -88,6 +89,7 @@ Some games used to have an official online version and now don't (licensing ende
 | Hearts, Spades, Euchre, Cribbage, Solitaire | **CardGames.io** | [cardgames.io](https://cardgames.io) | Huge free library, mostly vs. AI. |
 | Spades, Euchre, Hearts, Pinochle | Trickster Cards | [trickstercards.com](https://www.trickstercards.com) | Play trick-taking games with friends online. |
 | Bridge | Bridge Base Online (BBO) | [bridgebase.com](https://www.bridgebase.com) | The main online bridge hub; free casual play. |
+| Gin Rummy | NowPlay.gg | [NowPlay.gg](https://nowplay.gg/games/gin-rummy) | 100% Free - No Account Need - Matchmaking, Tournaments, Daily Puzzles |
 | Any deck-of-cards game | **PlayingCards.io** | [playingcards.io](https://playingcards.io) | Virtual tabletop — no rules enforced, build any card game. |
 
 ## 🧙 Trading & Collectible Card Games
